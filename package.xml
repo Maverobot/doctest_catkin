@@ -1,11 +1,9 @@
 <package>
   <name>doctest_catkin</name>
-  <version>0.5.90</version>
+  <version>0.0.1</version>
   <description>doctest_catkin</description>
-  <maintainer email="slynen@ethz.ch">Simon Lynen</maintainer>
+  <maintainer email="zheng.qu@dummy.de">Zheng Qu</maintainer>
 
   <license>See package</license>
-
   <buildtool_depend>catkin</buildtool_depend>
-  <buildtool_depend>catkin_simple</buildtool_depend>
 </package>
